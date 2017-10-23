@@ -37,13 +37,13 @@
 					<div class="m-login__container">
 						<div class="m-login__logo">
 							<a href="#">
-								<img src="../../../assets/app/media/img//logos/logo-1.png">
+								<img src="../../../assets/app/media/img//logos/law.png">
 							</a>
 						</div>
 						<div class="m-login__signin">
 							<div class="m-login__head">
 								<h3 class="m-login__title">
-									Sign In To Admin
+									Giriş Yap
 								</h3>
 							</div>
 							<form class="m-login__form m-form" action="">
@@ -57,19 +57,19 @@
 									<div class="col m--align-left m-login__form-left">
 										<label class="m-checkbox  m-checkbox--focus">
 											<input type="checkbox" name="remember">
-											Remember me
+											Beni Hatırla
 											<span></span>
 										</label>
 									</div>
 									<div class="col m--align-right m-login__form-right">
 										<a href="javascript:;" id="m_login_forget_password" class="m-link">
-											Forget Password ?
+											Şifremi Unuttum
 										</a>
 									</div>
 								</div>
 								<div class="m-login__form-action">
 									<button id="m_login_signin_submit" class="btn btn-focus m-btn m-btn--pill m-btn--custom m-btn--air m-login__btn m-login__btn--primary">
-										Sign In
+										Giriş Yap
 									</button>
 								</div>
 							</form>
@@ -77,10 +77,10 @@
 						<div class="m-login__signup">
 							<div class="m-login__head">
 								<h3 class="m-login__title">
-									Sign Up
+									Kayıt Ol
 								</h3>
 								<div class="m-login__desc">
-									Enter your details to create your account:
+									Hesap Oluşturmak İçin Bilgilerinizi Giriniz
 								</div>
 							</div>
 							<form class="m-login__form m-form" action="">
@@ -100,9 +100,9 @@
 									<div class="col m--align-left">
 										<label class="m-checkbox m-checkbox--focus">
 											<input type="checkbox" name="agree">
-											I Agree the
+									
 											<a href="#" class="m-link m-link--focus">
-												terms and conditions
+												Ön bilgileri okudum ve onaylıyorum
 											</a>
 											.
 											<span></span>
@@ -112,11 +112,11 @@
 								</div>
 								<div class="m-login__form-action">
 									<button id="m_login_signup_submit" class="btn btn-focus m-btn m-btn--pill m-btn--custom m-btn--air  m-login__btn">
-										Sign Up
+										Kayıt ol
 									</button>
 									&nbsp;&nbsp;
 									<button id="m_login_signup_cancel" class="btn btn-outline-focus m-btn m-btn--pill m-btn--custom  m-login__btn">
-										Cancel
+										İptal
 									</button>
 								</div>
 							</form>
@@ -124,10 +124,10 @@
 						<div class="m-login__forget-password">
 							<div class="m-login__head">
 								<h3 class="m-login__title">
-									Forgotten Password ?
+									Şifremi Unuttum
 								</h3>
 								<div class="m-login__desc">
-									Enter your email to reset your password:
+									Şifrenizi sıfırlamak için e-mail adresinizi giriniz:
 								</div>
 							</div>
 							<form class="m-login__form m-form" action="">
@@ -147,11 +147,11 @@
 						</div>
 						<div class="m-login__account">
 							<span class="m-login__account-msg">
-								Don't have an account yet ?
+								Henüz Hesabınız yok mu?
 							</span>
 							&nbsp;&nbsp;
 							<a href="javascript:;" id="m_login_signup" class="m-link m-link--light m-login__account-link">
-								Sign Up
+								Kayıt ol
 							</a>
 						</div>
 					</div>
