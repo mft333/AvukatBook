@@ -8,7 +8,7 @@ public class fonksiyonlar
 {
     
 
-    public NpgsqlConnection tCon = new NpgsqlConnection("Server=www.ekidne.com;Port=50432;User Id=postgres;Password=dbgUa1APQJ6mFCLQQSahyZxEtI3OcOV9LDfDgu5NYAWTwhJxBC78IuiLtS9gepSFU6CrYVVkl03PB4bEBpBeqS2zGXBwD7l5S4XkoitbZO8fdO1hMLgaFTKvoetOdmcI;Database=ekidne_avukat;Persist Security Info=true");
+    public NpgsqlConnection tCon = new NpgsqlConnection("Server Bilgileri Buraya");
     public string tSQL;
    
     NpgsqlDataAdapter tDataReader = new NpgsqlDataAdapter();
